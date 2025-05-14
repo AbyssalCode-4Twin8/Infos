@@ -43,13 +43,13 @@ Every year, tons of edible food are wasted due to poor stock management and inef
 ---
 
 ## 📌 Features
-🛒 Product Catalog: Show available food items and their status
-🔄 Provider-Demander Flow Management: Optimize supply and demand
-🧠 AI Assistance: Personalized suggestions and stock optimization
-📊 Stock Monitoring: Avoid expiry and overstocking
-🧾 Secure Auth: JWT-based login and registration
-📦 Dockerized Setup: For fast and isolated development
-🔁 CI/CD Pipeline: Automated builds and deployment via Jenkins
+- 🛒 Product Catalog: Show available food items and their status
+- 🔄 Provider-Demander Flow Management: Optimize supply and demand
+- 🧠 AI Assistance: Personalized suggestions and stock optimization
+- 📊 Stock Monitoring: Avoid expiry and overstocking
+- 🧾 Secure Auth: JWT-based login and registration
+- 📦 Dockerized Setup: For fast and isolated development
+- 🔁 CI/CD Pipeline: Automated builds and deployment via Jenkins
 
 ## 🚀 Getting Started
 
