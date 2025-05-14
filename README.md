@@ -1,6 +1,7 @@
 Sustainafood
 <p align="center">
-  <img src="SustainaFood.png" alt="Sustainafood Logo" width="200"/>
+  <a href="" rel="noopener">
+  <img src="SustainaFood.png" alt="Sustainafood Logo"></a>
   <br/>
 </p>
 
