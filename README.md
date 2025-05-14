@@ -42,7 +42,7 @@ Every year, tons of edible food are wasted due to poor stock management and inef
 
 ---
 
-📌 Features
+## 📌 Features
 🛒 Product Catalog: Show available food items and their status
 🔄 Provider-Demander Flow Management: Optimize supply and demand
 🧠 AI Assistance: Personalized suggestions and stock optimization
